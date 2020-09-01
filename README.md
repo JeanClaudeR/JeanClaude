@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-I'm Jean-Claude, my role [@SCOR Global Life](https://www.linkedin.com/in/jcrazafy/) involves a mix of Data Science Advocacy, Communication and Training working with a team mixing Data Scientists, Actuaries & Underwriting experts. Though I work in Life reinsurance, I also have experience in Non-Life (re)insurance. 
+I'm Jean-Claude, my role [@SCOR Global Life](https://www.linkedin.com/in/jcrazafy/) involves a mix of Data Science Advocacy, Communication and Training working with a team mixing Data Scientists, Actuaries & Underwriting experts. Though I work in Life reinsurance, I also have experience in Non-Life (re)insurance and Quantitative Finance. 
 
 #### Current goals
 
