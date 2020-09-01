@@ -1,7 +1,9 @@
 ## Hello :wave:
 
 I'm Jean-Claude, my role [@SCOR Global Life](https://www.linkedin.com/in/jcrazafy/) involves a mix of Data Science Advocacy, Communication and Training working with a team mixing Data Scientists, Actuaries & Underwriting experts. 
+
 I also have experience in Non-Life (re)insurance and Quantitative Finance. 
+
 I am also member of "Club Algo" which is a working group within the French Institute of Actuaries, dedicated to Data Science and applications of ML/AI in insurance.
 Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends](https://www.actuview.com/webinar-presentation-of-the-public-application-covid-trends_9e803a498.html))
 
