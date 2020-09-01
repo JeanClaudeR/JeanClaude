@@ -10,8 +10,8 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 
 #### Current goals
 
-* ✨ &nbsp; To continuously improve in Data Science, Modelling and Data Story telling.
-* ✨ &nbsp;Ultimately promote the Data Analytics field through coaching, training and building prototypes with best practices.
+* :fire: &nbsp; To continuously improve in Data Science, Modelling and Data Story telling.
+* :point_right: &nbsp;Ultimately promote the Data Analytics field through coaching, training and building prototypes with best practices.
 
 #### Get in touch
 
