@@ -14,8 +14,8 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 * :point_right: &nbsp;Ultimately promote the Data Analytics field through coaching, training and building prototypes with best practices.
 
 #### Some of my activities
-* :fire: Playing with Covid19 data (Python, Dash) https://github.com/JeanClaudeR/COVID19_Trends_by_Age
-* Messing up with Julia language  ![Julia](href=https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png)
+* :fire: Playing with Covid19 data (Python, Dash) [Covid Trends by Age](https://github.com/JeanClaudeR/COVID19_Trends_by_Age)
+* Messing up with Julia language  ![Julia](https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png)
 
 #### Get in touch
 
