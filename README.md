@@ -15,6 +15,7 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 
 #### Some of my activities
 * :fire: Playing with Covid19 data (Python, Dash) https://github.com/JeanClaudeR/COVID19_Trends_by_Age
+* Messing with Julia language 
 
 #### Get in touch
 
