@@ -13,6 +13,9 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 * :fire: &nbsp; To continuously improve in Data Science, Modelling and Data Story telling.
 * :point_right: &nbsp;Ultimately promote the Data Analytics field through coaching, training and building prototypes with best practices.
 
+#### Some of my activities
+* :fire: Playing with Covid19 data (Python, Dash) https://github.com/JeanClaudeR/COVID19_Trends_by_Age
+
 #### Get in touch
 
 <p>
