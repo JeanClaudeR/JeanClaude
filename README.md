@@ -15,7 +15,7 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 
 #### Some of my activities
 * :fire: Playing with Covid19 data (Python, Dash) [Covid Trends by Age](https://github.com/JeanClaudeR/COVID19_Trends_by_Age)
-* Messing up with Julia language  ![Julia](https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png)
+* Messing up with <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png" alt="Julia" align="center" width="60" height="65">
 
 #### Get in touch
 
