@@ -14,9 +14,8 @@ Had the opportunity to present (in French) some work on Covid-19 ([Covid Trends]
 * :point_right: &nbsp;Ultimately promote the Data Analytics field through coaching, training and building prototypes with best practices.
 
 #### Some of my activities
-* :fire: Playing with Covid19 data (Python, Dash) [Covid Trends by Age](https://github.com/JeanClaudeR/COVID19_Trends_by_Age)
+* :fire: Playing with Covid19 data (Python, Dash) [Covid Trends by Age](https://github.com/JeanClaudeR/COVID19_Trends_by_Age) or [SEIR exploration](https://gitlab.com/epidemix/EpidemiX.git)
 * Messing up with <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png" alt="Julia" align="center" width="60" height="65">
-* Part of my work is also on Gitlab [SEIR exploration](https://gitlab.com/epidemix/EpidemiX.git)
 
 #### Get in touch
 
